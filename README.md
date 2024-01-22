@@ -1,0 +1,1 @@
+# Stone-paper-scissors.com
